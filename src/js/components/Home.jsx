@@ -14,7 +14,7 @@ const Home = () => {
 
     return (
         <div className="text-center mt-5">
-            <SecondsCounter seconds={segundos} />
+            <SecondsCounter segundos={segundos} />
         </div>
     );
 };
